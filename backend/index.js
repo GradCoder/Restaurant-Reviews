@@ -24,3 +24,4 @@ MongoClient.connect(
     {
         app.listen(port)
     })
+test
